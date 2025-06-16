@@ -23,7 +23,7 @@ CycleTech é uma aplicação web que visa facilitar o descarte correto de materi
 
 ## Como Executar
 1. Clone o repositório
-2. Configure o banco de dados PostgreSQL
+2. Configure o banco de dados H2
 3. Execute o backend: `./mvnw spring-boot:run`
 4. Execute o frontend: `npm install && npm start`
 

@@ -13,7 +13,7 @@ CycleTech é uma aplicação web que visa facilitar o descarte correto de materi
 ## Tecnologias Utilizadas
 - Frontend: React.js com TypeScript
 - Backend: Java com Spring Boot
-- Banco de Dados: PostgreSQL
+- Banco de Dados: H2
 - Mapeamento: Google Maps API
 
 ## Requisitos
